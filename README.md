@@ -1,4 +1,4 @@
-- 👋 Hi everyone, I’m @santiagoDiaz5689 from Colombia, welcome to my repository
+- 👋 Hi everyone, I’m @santiagoDiaz5689 from Colombia but living in London, UK at the moment, welcome to my repository
 
 
 <!---
